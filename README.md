@@ -1,4 +1,6 @@
+<h2>Tenho sólida experiência em C# .NET, trabalhando com ASP.NET Core e ASP.NET MVC para desenvolver aplicações eficientes e escaláveis. Além disso, possuo conhecimento avançado em JavaScript, integrando front-end e back-end para criar soluções completas.
 
+Tenho também forte domínio de SQL Server, incluindo modelagem de banco de dados, consultas complexas e otimização de desempenho. Sou apaixonado por tecnologia, sempre buscando aprimorar minhas habilidades e contribuir com projetos de alto impacto.<h2>
 
 ###
 
